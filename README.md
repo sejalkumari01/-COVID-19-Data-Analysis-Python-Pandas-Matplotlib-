@@ -18,7 +18,7 @@ The analysis provides insights into pandemic progression and supports data-drive
 
 ## 📂 Files in this Repository
 - [`covid_analysis.ipynb`](http://localhost:8888/notebooks/Covid_casestudy.ipynb) → Jupyter Notebook with analysis and visualizations  
-- `[covid_data.csv](https://1drv.ms/x/c/6e193f923f48393e/Eb2ZWsJtnn5Klqu6X4nOc7UBCHc7kxu8nRVcPJV_FCd5AQ?e=nD1o1L)` → Cleaned dataset (optional)  
+- [`covid_data.csv`](https://1drv.ms/x/c/6e193f923f48393e/Eb2ZWsJtnn5Klqu6X4nOc7UBCHc7kxu8nRVcPJV_FCd5AQ?e=nD1o1L) → Cleaned dataset
 
 ## 🚀 How to View
 1. Open the Jupyter Notebook file in Google Colab or Jupyter.
