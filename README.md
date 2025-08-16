@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Data Analysis 
 
-Analyzed COVID-19 confirmed, death, and recovery data from multiple CSV sources to uncover trends and patterns. 
+Analyzed COVID-19 confirmed, death, and recovery data from multiple CSV sources to uncover trends and patterns.
 
 ## 📌 Project Overview
 This project focuses on exploring COVID-19 datasets to understand the spread, recovery rates, and mortality trends across regions.  
